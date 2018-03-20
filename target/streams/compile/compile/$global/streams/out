@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\gleno\Documents\College Work\Year 2\Semester 2\Software Development 4\SoftwarePlayFrameworkLab6\app\models\shopping\ShopOrder.java:62:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: variable basketItems[0m
+[0m[[0m[31merror[0m] [0m[0m            this.basketItems = null;[0m
